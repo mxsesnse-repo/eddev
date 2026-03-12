@@ -1,2 +1,2 @@
-# eddev01
+# eddev
 MxSense Edge AI Server
